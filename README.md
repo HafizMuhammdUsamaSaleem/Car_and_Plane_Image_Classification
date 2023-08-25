@@ -1,5 +1,3 @@
-# Car_and_Plane_Image_Classification
-Accurate image classification of cars and planes using deep learning techniques with convolutional neural networks (CNNs)
 # Car and Plane Image Classification using Deep Learning
 This repository contains code for an image classification project that distinguishes between images of cars and planes. The project utilizes deep learning techniques and is designed to classify images accurately.
 
